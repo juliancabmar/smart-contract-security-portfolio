@@ -1,4 +1,4 @@
-# Smart Contract Security Portfolio — Julián
+# Smart Contract Security Portfolio — Julian Cabrera
 
 Independent **Smart Contract Security Researcher** specializing in **DeFi protocols, state-machine analysis, economic invariants, and Foundry Proof-of-Concepts (PoCs)**.
 
